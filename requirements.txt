@@ -1,0 +1,6 @@
+# Dépendances du projet
+# Installation :  pip install -r requirements.txt
+
+pandas>=2.0
+matplotlib>=3.7
+requests>=2.31

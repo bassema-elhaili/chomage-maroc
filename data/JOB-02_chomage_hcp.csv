@@ -1,0 +1,51 @@
+annee,indicateur,valeur,unite,source
+2023,chomage_total,13.0,%,HCP - Enquete Nationale sur l'Emploi
+2024,chomage_total,13.3,%,HCP - Enquete Nationale sur l'Emploi
+2025,chomage_total,13.0,%,HCP - Enquete Nationale sur l'Emploi
+2024,chomage_jeunes_15_24,36.7,%,HCP - Enquete Nationale sur l'Emploi
+2025,chomage_jeunes_15_24,37.2,%,HCP - Enquete Nationale sur l'Emploi
+2024,chomage_femmes,19.4,%,HCP - Enquete Nationale sur l'Emploi
+2025,chomage_femmes,20.5,%,HCP - Enquete Nationale sur l'Emploi
+2024,chomage_hommes,11.6,%,HCP - Enquete Nationale sur l'Emploi
+2025,chomage_hommes,10.8,%,HCP - Enquete Nationale sur l'Emploi
+2024,chomage_diplomes,19.6,%,HCP - Enquete Nationale sur l'Emploi
+2025,chomage_diplomes,19.1,%,HCP - Enquete Nationale sur l'Emploi
+2024,chomage_25_34,21.0,%,HCP - Enquete Nationale sur l'Emploi
+2025,chomage_25_34,20.9,%,HCP - Enquete Nationale sur l'Emploi
+2024,chomage_35_44,7.6,%,HCP - Enquete Nationale sur l'Emploi
+2025,chomage_35_44,7.2,%,HCP - Enquete Nationale sur l'Emploi
+2024,chomage_45_plus,4.0,%,HCP - Enquete Nationale sur l'Emploi
+2025,chomage_45_plus,3.6,%,HCP - Enquete Nationale sur l'Emploi
+2023,sous_emploi,9.8,%,HCP - Enquete Nationale sur l'Emploi
+2024,sous_emploi,10.1,%,HCP - Enquete Nationale sur l'Emploi
+2025,sous_emploi,10.9,%,HCP - Enquete Nationale sur l'Emploi
+2024,sous_emploi_duree,5.6,%,HCP - Enquete Nationale sur l'Emploi
+2025,sous_emploi_duree,5.7,%,HCP - Enquete Nationale sur l'Emploi
+2024,sous_emploi_revenu,4.6,%,HCP - Enquete Nationale sur l'Emploi
+2025,sous_emploi_revenu,5.3,%,HCP - Enquete Nationale sur l'Emploi
+2024,taux_activite,43.5,%,HCP - Enquete Nationale sur l'Emploi
+2025,taux_activite,43.5,%,HCP - Enquete Nationale sur l'Emploi
+2024,taux_activite_hommes,68.6,%,HCP - Enquete Nationale sur l'Emploi
+2025,taux_activite_hommes,68.5,%,HCP - Enquete Nationale sur l'Emploi
+2024,taux_activite_femmes,19.1,%,HCP - Enquete Nationale sur l'Emploi
+2025,taux_activite_femmes,19.0,%,HCP - Enquete Nationale sur l'Emploi
+2024,taux_emploi,37.7,%,HCP - Enquete Nationale sur l'Emploi
+2025,taux_emploi,37.8,%,HCP - Enquete Nationale sur l'Emploi
+2024,taux_emploi_femmes,15.3,%,HCP - Enquete Nationale sur l'Emploi
+2025,taux_emploi_femmes,15.1,%,HCP - Enquete Nationale sur l'Emploi
+2024,taux_emploi_hommes,60.7,%,HCP - Enquete Nationale sur l'Emploi
+2025,taux_emploi_hommes,61.1,%,HCP - Enquete Nationale sur l'Emploi
+2024,volume_chomeurs,1638000,personnes,HCP - Enquete Nationale sur l'Emploi
+2025,volume_chomeurs,1621000,personnes,HCP - Enquete Nationale sur l'Emploi
+2024,volume_sous_emploi,1082000,personnes,HCP - Enquete Nationale sur l'Emploi
+2025,volume_sous_emploi,1190000,personnes,HCP - Enquete Nationale sur l'Emploi
+2024,primo_demandeurs,49.3,%des chomeurs,HCP - Enquete Nationale sur l'Emploi
+2025,primo_demandeurs,52.9,%des chomeurs,HCP - Enquete Nationale sur l'Emploi
+2024,chomage_plus_dun_an,62.4,%des chomeurs,HCP - Enquete Nationale sur l'Emploi
+2025,chomage_plus_dun_an,64.8,%des chomeurs,HCP - Enquete Nationale sur l'Emploi
+2024,duree_moyenne_chomage,31,mois,HCP - Enquete Nationale sur l'Emploi
+2025,duree_moyenne_chomage,33,mois,HCP - Enquete Nationale sur l'Emploi
+2023,emplois_crees,-157000,personnes,HCP - Enquete Nationale sur l'Emploi
+2024,emplois_crees,82000,personnes,HCP - Enquete Nationale sur l'Emploi
+2025,emplois_crees,193000,personnes,HCP - Enquete Nationale sur l'Emploi
+2025,actifs_occupes,10867000,personnes,HCP - Enquete Nationale sur l'Emploi

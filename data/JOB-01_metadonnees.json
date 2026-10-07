@@ -1,0 +1,90 @@
+{
+  "pays": "Maroc",
+  "code_pays": "MAR",
+  "source": "World Bank - World Development Indicators",
+  "url_source": "https://data.worldbank.org/country/morocco",
+  "api": "https://api.worldbank.org/v2",
+  "telecharge_le": "2026-10-07",
+  "periode": "1990-2025",
+  "lignes": 36,
+  "colonnes": 12,
+  "indicateurs": {
+    "SL.UEM.TOTL.ZS": {
+      "colonne": "chomage_total",
+      "libelle": "Taux de chomage total (% de la population active)",
+      "url_api": "https://api.worldbank.org/v2/country/MAR/indicator/SL.UEM.TOTL.ZS?format=json&date=1990:2025",
+      "n_observations": 35,
+      "periode": "1991-2025"
+    },
+    "SL.UEM.TOTL.FE.ZS": {
+      "colonne": "chomage_femmes",
+      "libelle": "Taux de chomage des femmes (%)",
+      "url_api": "https://api.worldbank.org/v2/country/MAR/indicator/SL.UEM.TOTL.FE.ZS?format=json&date=1990:2025",
+      "n_observations": 35,
+      "periode": "1991-2025"
+    },
+    "SL.UEM.TOTL.MA.ZS": {
+      "colonne": "chomage_hommes",
+      "libelle": "Taux de chomage des hommes (%)",
+      "url_api": "https://api.worldbank.org/v2/country/MAR/indicator/SL.UEM.TOTL.MA.ZS?format=json&date=1990:2025",
+      "n_observations": 35,
+      "periode": "1991-2025"
+    },
+    "SL.UEM.1524.ZS": {
+      "colonne": "chomage_jeunes",
+      "libelle": "Taux de chomage des 15-24 ans (%)",
+      "url_api": "https://api.worldbank.org/v2/country/MAR/indicator/SL.UEM.1524.ZS?format=json&date=1990:2025",
+      "n_observations": 35,
+      "periode": "1991-2025"
+    },
+    "SL.UEM.1524.FE.ZS": {
+      "colonne": "chomage_jeunes_f",
+      "libelle": "Taux de chomage des jeunes femmes 15-24 ans (%)",
+      "url_api": "https://api.worldbank.org/v2/country/MAR/indicator/SL.UEM.1524.FE.ZS?format=json&date=1990:2025",
+      "n_observations": 35,
+      "periode": "1991-2025"
+    },
+    "SL.UEM.1524.MA.ZS": {
+      "colonne": "chomage_jeunes_h",
+      "libelle": "Taux de chomage des jeunes hommes 15-24 ans (%)",
+      "url_api": "https://api.worldbank.org/v2/country/MAR/indicator/SL.UEM.1524.MA.ZS?format=json&date=1990:2025",
+      "n_observations": 35,
+      "periode": "1991-2025"
+    },
+    "SL.TLF.CACT.ZS": {
+      "colonne": "taux_activite",
+      "libelle": "Taux d'activite total (% de la population 15+)",
+      "url_api": "https://api.worldbank.org/v2/country/MAR/indicator/SL.TLF.CACT.ZS?format=json&date=1990:2025",
+      "n_observations": 36,
+      "periode": "1990-2025"
+    },
+    "SL.TLF.CACT.FE.ZS": {
+      "colonne": "taux_activite_f",
+      "libelle": "Taux d'activite des femmes (%)",
+      "url_api": "https://api.worldbank.org/v2/country/MAR/indicator/SL.TLF.CACT.FE.ZS?format=json&date=1990:2025",
+      "n_observations": 36,
+      "periode": "1990-2025"
+    },
+    "SL.EMP.TOTL.SP.ZS": {
+      "colonne": "ratio_emploi",
+      "libelle": "Ratio emploi / population active (%)",
+      "url_api": "https://api.worldbank.org/v2/country/MAR/indicator/SL.EMP.TOTL.SP.ZS?format=json&date=1990:2025",
+      "n_observations": 35,
+      "periode": "1991-2025"
+    },
+    "NY.GDP.PCAP.KD": {
+      "colonne": "pib_habitant_usd",
+      "libelle": "PIB par habitant en dollars constants",
+      "url_api": "https://api.worldbank.org/v2/country/MAR/indicator/NY.GDP.PCAP.KD?format=json&date=1990:2025",
+      "n_observations": 36,
+      "periode": "1990-2025"
+    },
+    "NY.GDP.MKTP.KD.ZG": {
+      "colonne": "croissance_pib",
+      "libelle": "Croissance annuelle du PIB (%)",
+      "url_api": "https://api.worldbank.org/v2/country/MAR/indicator/NY.GDP.MKTP.KD.ZG?format=json&date=1990:2025",
+      "n_observations": 36,
+      "periode": "1990-2025"
+    }
+  }
+}
